@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Conler Simmons, I am a Junior at Creighton pursuing a double major in Computer Science and Data Science, I enjoy learning about new coding languages and approaches to solving problems. At the moment I have been diving into machine learning and AI LLM's, my goal is break into robotics and work on deep learning software in that field.
+My name is Conler Simmons, I am a senior at Creighton pursuing a double major in Computer Science and Data Science, I enjoy learning about new coding languages and approaches to solving problems. At the moment I have been diving into machine learning and AI LLM's, my goal is break into robotics and work on deep learning software in that field.
 
 
 ## 🌐 Socials:
